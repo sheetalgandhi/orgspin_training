@@ -58,6 +58,10 @@
             "TemplateID"  : "0TT3c000000JFvn"
         },
         {
+            "TemplateName" : "SFI_MC_ASM",
+            "TemplateID"  : "0TT1S000000uW6G"
+        },
+        {
             "TemplateName" : "SFI_MC_SLM",
             "TemplateID"  : "0TT4w000002Z4TZ"
         },
